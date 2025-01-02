@@ -15,6 +15,6 @@
  ![image](https://github.com/user-attachments/assets/140e1c6a-daff-49ea-850d-fbc4c44edad4)
  ## ATTRITION NAME BY GENDER
  ![image](https://github.com/user-attachments/assets/70ba1d10-8a85-4594-ab80-da944ffbe204)
- ## HR ANALYTICS DASHBOARD
+ ## HR ANALYTICS DASHBOARD 
  ![image](https://github.com/user-attachments/assets/2f6a3020-3b0e-4351-82d2-ad7b3ccb5812)
 
